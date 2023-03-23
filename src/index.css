@@ -1,3 +1,36 @@
 body {
-  background: #223;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nickname-popup{
+margin: 0;
+border: 2px solid black;
+padding: 2%;
+margin-top: 10em;
+}
+
+.msg-container{
+  margin: 0;
+  padding: 0;
+  border: 2px solid black;
+  height: 30em;
+  width: 40em;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  margin-bottom: 2em;
+  margin-top: 5em;
+}
+
+.chat-container{
+
+} 
+
+.send-container{
+  margin: 0;
+  padding: 0;
 }
